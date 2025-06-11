@@ -1,7 +1,15 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hi, I'm Yash Rathore
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=30&pause=1000&color=8A2BE2&background=FF000000&width=435&lines=%F0%9F%8C%8C+YASH+RATHORE+%F0%9F%8C%8C)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Problem+Solver;Tech+Enthusiast;Continuous+Learner" />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Separator">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=600&height=100&lines=Full+Stack+Developer;Digital+Innovator;Tech+Explorer;Universe+Creator" />
+</div>
+
+<div align="center">
+  <img src="https://i.imgur.com/waxVImv.png" alt="Colorful Separator">
 </div>
 
 ## About Me

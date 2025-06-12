@@ -42,24 +42,36 @@
 <div align="left">
 <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 
-- **Name:** Yash Rathore
-- **Location:** New Delhi, India
-- **Title:** Digital Architect & Code Alchemist
-- **Education:** 
-  - Computer Engineering @ Delhi Skill and Entrepreneurship University
-  - GPA: 8.33 SGPA
-- **Experience:** Full Stack Developer Intern @ XZECT LABS PVT LTD
-- **Interests:** 
-  - Exploring Digital Frontiers
-  - Building Future Technologies
-  - Creating Immersive Experiences
-  - Solving Complex Puzzles
-- **Languages:** Hindi, English, Deutsch (A2 Level)
-- **Hobbies:** 
-  - Exploring New Technologies
-  - Learning About Startups
-  - Creating Innovative Digital Solutions
-- **Motto:** Transform imagination into reality through code
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">👤 Name: <span style="color: #c9d1d9;">Yash Rathore</span></p>
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">📍 Location: <span style="color: #c9d1d9;">New Delhi, India</span></p>
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">🏷️ Title: <span style="color: #c9d1d9;">Digital Architect & Code Alchemist</span></p>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">🎓 Education:</p>
+<ul style="color: #c9d1d9; margin-left: 20px; list-style-type: circle;">
+  <li>Computer Engineering @ Delhi Skill and Entrepreneurship University</li>
+  <li>GPA: 8.33 SGPA</li>
+</ul>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">💼 Experience: <span style="color: #c9d1d9;">Full Stack Developer Intern @ XZECT LABS PVT LTD</span></p>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">🔍 Interests:</p>
+<ul style="color: #c9d1d9; margin-left: 20px; list-style-type: circle;">
+  <li>Exploring Digital Frontiers</li>
+  <li>Building Future Technologies</li>
+  <li>Creating Immersive Experiences</li>
+  <li>Solving Complex Puzzles</li>
+</ul>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">🗣️ Languages: <span style="color: #c9d1d9;">Hindi, English, Deutsch (A2 Level)</span></p>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">🎯 Hobbies:</p>
+<ul style="color: #c9d1d9; margin-left: 20px; list-style-type: circle;">
+  <li>Exploring New Technologies</li>
+  <li>Learning About Startups</li>
+  <li>Creating Innovative Digital Solutions</li>
+</ul>
+
+<p style="color: #58a6ff; font-weight: bold; font-size: 18px; margin-bottom: 10px;">💭 Motto: <span style="color: #c9d1d9;">Transform imagination into reality through code</span></p>
 
 </div>
 </div>

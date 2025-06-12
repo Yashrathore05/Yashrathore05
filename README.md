@@ -42,24 +42,24 @@
 <div align="left">
 <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 
-```javascript
-const cosmicProfile = {
-  name: "Yash Rathore",
-  location: "New Delhi, India",
-  title: "Digital Architect & Code Alchemist",
-  education: {
-    diploma: "Computer Engineering @ Delhi Skill and Entrepreneurship University",
-    gpa: "8.33 SGPA"
-  },
-  experience: "Full Stack Developer Intern @ XZECT LABS PVT LTD",
-  interests: ["Exploring Digital Frontiers", "Building Future Technologies", 
-              "Creating Immersive Experiences", "Solving Complex Puzzles"],
-  languages: ["Hindi", "English", "Deutsch (A2 Level)"],
-  hobbies: ["Exploring New Technologies", "Learning About Startups", 
-            "Creating Innovative Digital Solutions"],
-  motto: "Transform imagination into reality through code"
-};
-```
+- **Name:** Yash Rathore
+- **Location:** New Delhi, India
+- **Title:** Digital Architect & Code Alchemist
+- **Education:** 
+  - Computer Engineering @ Delhi Skill and Entrepreneurship University
+  - GPA: 8.33 SGPA
+- **Experience:** Full Stack Developer Intern @ XZECT LABS PVT LTD
+- **Interests:** 
+  - Exploring Digital Frontiers
+  - Building Future Technologies
+  - Creating Immersive Experiences
+  - Solving Complex Puzzles
+- **Languages:** Hindi, English, Deutsch (A2 Level)
+- **Hobbies:** 
+  - Exploring New Technologies
+  - Learning About Startups
+  - Creating Innovative Digital Solutions
+- **Motto:** Transform imagination into reality through code
 
 </div>
 </div>

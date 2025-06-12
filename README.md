@@ -42,7 +42,7 @@
 <div align="left">
 <div style="background-color: #0d1117; border-radius: 10px; padding: 15px; margin: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
 
-```js
+```javascript
 const cosmicProfile = {
   name: "Yash Rathore",
   location: "New Delhi, India",

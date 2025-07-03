@@ -23,10 +23,10 @@
 </div>
 
 <p align="center">
-  <a href="mailto:contact@theyashrathore.in"><img src="https://img.shields.io/badge/Email-yashrathore0418%40gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white&labelColor=black" alt="Email"/></a>
+  <a href="mailto:contact@theyashrathore.in"><img src="https://img.shields.io/badge/Email-contact%40theyashrathore.in-EA4335?style=plastic&logo=gmail&logoColor=white&labelColor=black" alt="Email"/></a>
   <a href="https://linkedin.com/in/yashr05"><img src="https://img.shields.io/badge/LinkedIn-yashr05-0A66C2?style=plastic&logo=linkedin&logoColor=white&labelColor=black" alt="LinkedIn"/></a>
   <a href="https://github.com/Yashrathore05"><img src="https://img.shields.io/badge/GitHub-Yashrathore05-181717?style=plastic&logo=github&logoColor=white&labelColor=black" alt="GitHub"/></a>
-  <a href="https://theyashrathore.in"><img src="https://img.shields.io/badge/Portfolio-yash.immersivex.in-4285F4?style=plastic&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio"/></a>
+  <a href="https://theyashrathore.in"><img src="https://img.shields.io/badge/Portfolio-theyashrathore.in-4285F4?style=plastic&logo=google-chrome&logoColor=white&labelColor=black" alt="Portfolio"/></a>
 </p>
 
 <div align="center">
